@@ -1,0 +1,11 @@
+beginfig(1);
+pair A,B,C,D;
+u := 2cm;
+A := (0,0);
+B := (u,0);
+C := u*dir 60;
+D := (A+B+C)/3;
+draw A--B--C--cycle;
+draw A--D--B--D--C;
+endfig;
+end;

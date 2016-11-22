@@ -1,2 +1,2 @@
 # metapost
-METAPOST resources. Mainly solutions for exercises from Learn METAPOST by doing.
+METAPOST resources. Mainly solutions for exercises from Learning METAPOST by doing.
